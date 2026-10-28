@@ -1,4 +1,4 @@
 build:
-  id: 10000
-  name: Updated default Git config 
-  version: updated git version 1
+  id: 20000
+  name: Modified default Git config 
+  version: Modified git version 1
